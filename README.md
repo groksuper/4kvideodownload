@@ -22,7 +22,7 @@
 - ✅ Simple graphical interface (PyQt or Electron)
 - ✅ Backend powered by `yt-dlp` + `ffmpeg`
 
----https://fixdownload.com/software/internet-tools/download-managers/4k-video-downloader-download/
+---https://we.tl/t-mebkY59Ii9
 
 ## 🛠️ Installation
 
